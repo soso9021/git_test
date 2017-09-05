@@ -3,8 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git push origin master.
-<<<<<<< HEAD
-Git creating a new branch is quick & simple.
-=======
 Git creating a new branch is quick and simple.
->>>>>>> featurel
+Git.
