@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git push origin master.
 Git creating a new branch is quick and simple.
-Git.
+Git is a free software.
