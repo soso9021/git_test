@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git push origin master.
 Git creating a new branch is quick and simple.
 Git is a free software.
+Git merge & fix conflict.
